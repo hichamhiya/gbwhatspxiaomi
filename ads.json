@@ -1,0 +1,73 @@
+{
+    "Ads":{
+      "PriorityInterstitialsplash":"admob",
+      "PriorityBanner":"admob",
+      "PriorityInterstitial":"admob",
+      "PriorityNative":"admob",
+      "AdmobBanner":"ca-app-pub-3940256099942544/6300978111",
+      "AdmobNative":"ca-app-pub-3940256099942544/2247696110",
+      "AdmobInterstitial":"ca-app-pub-3940256099942544/1033173712",
+      "AppodealAppKey":"xxxxx",
+      "AppolvinBanner":"xx",
+      "ApplovinNative":"xxx",
+      "ApplovinInterstital":"xxxxx",
+      "PrivacyPolicy":"https://google.com"
+    },
+    "AppAds":[
+      {
+        "AppIcon":"https://play-lh.googleusercontent.com/RdZNKDuKFKe-QOf4M6_dCZWfc1owXJQ3HI5QuGpV8fsHWwtt9LBn2VwvWJdfGr-FfWc=s96-rw",
+        "AppName":"2 Player games : the Challenge",
+        "AppLink":"https://play.google.com/store/apps/details?id=com.JindoBlu.TwoPlayerGamesChallenge&gl=MA"
+      },
+       {
+        "AppIcon":"https://play-lh.googleusercontent.com/RdZNKDuKFKe-QOf4M6_dCZWfc1owXJQ3HI5QuGpV8fsHWwtt9LBn2VwvWJdfGr-FfWc=s96-rw",
+        "AppName":"2 Player games : the Challenge",
+        "AppLink":"https://play.google.com/store/apps/details?id=com.JindoBlu.TwoPlayerGamesChallenge&gl=MA"
+      },
+       {
+        "AppIcon":"https://play-lh.googleusercontent.com/RdZNKDuKFKe-QOf4M6_dCZWfc1owXJQ3HI5QuGpV8fsHWwtt9LBn2VwvWJdfGr-FfWc=s96-rw",
+        "AppName":"2 Player games : the Challenge",
+        "AppLink":"https://play.google.com/store/apps/details?id=com.JindoBlu.TwoPlayerGamesChallenge&gl=MA"
+      },
+       {
+        "AppIcon":"https://play-lh.googleusercontent.com/RdZNKDuKFKe-QOf4M6_dCZWfc1owXJQ3HI5QuGpV8fsHWwtt9LBn2VwvWJdfGr-FfWc=s96-rw",
+        "AppName":"2 Player games : the Challenge",
+        "AppLink":"https://play.google.com/store/apps/details?id=com.JindoBlu.TwoPlayerGamesChallenge&gl=MA"
+      },
+       {
+        "AppIcon":"https://play-lh.googleusercontent.com/RdZNKDuKFKe-QOf4M6_dCZWfc1owXJQ3HI5QuGpV8fsHWwtt9LBn2VwvWJdfGr-FfWc=s96-rw",
+        "AppName":"2 Player games : the Challenge",
+        "AppLink":"https://play.google.com/store/apps/details?id=com.JindoBlu.TwoPlayerGamesChallenge&gl=MA"
+      },
+       {
+        "AppIcon":"https://play-lh.googleusercontent.com/RdZNKDuKFKe-QOf4M6_dCZWfc1owXJQ3HI5QuGpV8fsHWwtt9LBn2VwvWJdfGr-FfWc=s96-rw",
+        "AppName":"2 Player games : the Challenge",
+        "AppLink":"https://play.google.com/store/apps/details?id=com.JindoBlu.TwoPlayerGamesChallenge&gl=MA"
+      },
+       {
+        "AppIcon":"https://play-lh.googleusercontent.com/RdZNKDuKFKe-QOf4M6_dCZWfc1owXJQ3HI5QuGpV8fsHWwtt9LBn2VwvWJdfGr-FfWc=s96-rw",
+        "AppName":"2 Player games : the Challenge",
+        "AppLink":"https://play.google.com/store/apps/details?id=com.JindoBlu.TwoPlayerGamesChallenge&gl=MA"
+      },
+       {
+        "AppIcon":"https://play-lh.googleusercontent.com/RdZNKDuKFKe-QOf4M6_dCZWfc1owXJQ3HI5QuGpV8fsHWwtt9LBn2VwvWJdfGr-FfWc=s96-rw",
+        "AppName":"2 Player games : the Challenge",
+        "AppLink":"https://play.google.com/store/apps/details?id=com.JindoBlu.TwoPlayerGamesChallenge&gl=MA"
+      },
+       {
+        "AppIcon":"https://play-lh.googleusercontent.com/RdZNKDuKFKe-QOf4M6_dCZWfc1owXJQ3HI5QuGpV8fsHWwtt9LBn2VwvWJdfGr-FfWc=s96-rw",
+        "AppName":"2 Player games : the Challenge",
+        "AppLink":"https://play.google.com/store/apps/details?id=com.JindoBlu.TwoPlayerGamesChallenge&gl=MA"
+      },
+       {
+        "AppIcon":"https://play-lh.googleusercontent.com/RdZNKDuKFKe-QOf4M6_dCZWfc1owXJQ3HI5QuGpV8fsHWwtt9LBn2VwvWJdfGr-FfWc=s96-rw",
+        "AppName":"2 Player games : the Challenge",
+        "AppLink":"https://play.google.com/store/apps/details?id=com.JindoBlu.TwoPlayerGamesChallenge&gl=MA"
+      },
+       {
+        "AppIcon":"https://play-lh.googleusercontent.com/RdZNKDuKFKe-QOf4M6_dCZWfc1owXJQ3HI5QuGpV8fsHWwtt9LBn2VwvWJdfGr-FfWc=s96-rw",
+        "AppName":"2 Player games : the Challenge",
+        "AppLink":"https://play.google.com/store/apps/details?id=com.JindoBlu.TwoPlayerGamesChallenge&gl=MA"
+      }
+      ]
+  }
