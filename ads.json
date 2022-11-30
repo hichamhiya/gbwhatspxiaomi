@@ -1,9 +1,9 @@
 {
     "Ads":{
-      "PriorityInterstitialsplash":"applovin",
-      "PriorityBanner":"applovin",
-      "PriorityInterstitial":"applovin",
-      "PriorityNative":"applovin",
+      "PriorityInterstitialsplash":"admob",
+      "PriorityBanner":"admob",
+      "PriorityInterstitial":"admob",
+      "PriorityNative":"admob",
       "AdmobBanner":"xxx",
       "AdmobNative":"xxx",
       "AdmobInterstitial":"xxx",
