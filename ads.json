@@ -1,16 +1,16 @@
 {
     "Ads":{
-      "PriorityInterstitialsplash":"xxx",
-      "PriorityBanner":"xxx",
-      "PriorityInterstitial":"xxx",
-      "PriorityNative":"xxxx",
+      "PriorityInterstitialsplash":"applovin",
+      "PriorityBanner":"applovin",
+      "PriorityInterstitial":"applovin",
+      "PriorityNative":"applovin",
       "AdmobBanner":"xxx",
       "AdmobNative":"xxx",
       "AdmobInterstitial":"xxx",
       "AppodealAppKey":"ae2b8471e029dd5c6e90110b151a8659d59e312daeeb5dc3",
       "AppolvinBanner":"xx",
       "ApplovinNative":"xxx",
-      "ApplovinInterstital":"1039f35eac900c4c",
+      "ApplovinInterstital":"xxxx",
       "PrivacyPolicy":"https://sites.google.com/view/vidstudiotdm/accueil"
     },
     "AppAds":[
